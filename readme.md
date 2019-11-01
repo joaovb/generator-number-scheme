@@ -1,6 +1,6 @@
-### Gerador de números no formato |x|
+### Gerador de números para esquema de cenários
 
-> Snipplet de código simples em Python que criei para geração de números para utilização em codes examples Ruby
+> Snipplet de código simples em Python que criei para geração de números para utilização em esquemas de cenários.
 
 > ### Requisitos do sistema:
 
