@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'generator-number-scheme',         # How you named your package folder (MyLib)
   packages = ['generator-number-scheme'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = '0.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Gerador de números para esquema de cenários',   # Give a short description about your library
   author = 'João Victor Barreto',                   # Type in your name
