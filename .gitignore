@@ -1,1 +1,5 @@
 *.txt
+dist/
+env/
+__pycache__/
+MANIFEST

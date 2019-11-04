@@ -8,17 +8,6 @@ setup(
   author = 'João Victor Barreto',                   # Type in your name
   author_email = 'joaovictor.hts@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/joaovb/generator-number-scheme',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/joaovb/generator-number-scheme/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/joaovb/generator-number-scheme/archive/v_02.tar.gz',    # I explain this later on
   keywords = ['gerador', 'cenários', 'bdd'],   # Keywords that define your package best
-
-  classifiers=[
-    'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
-    'Intended Audience :: Developers',      # Define that your audience are developers
-    'Topic :: Software Development :: Build Tools',
-    'License :: OSI Approved :: MIT License',   # Again, pick a license
-    'Programming Language :: Python :: 3',      #Specify which pyhton versions that you want to support
-    'Programming Language :: Python :: 3.4',
-    'Programming Language :: Python :: 3.5',
-    'Programming Language :: Python :: 3.6',
-  ],
 )
